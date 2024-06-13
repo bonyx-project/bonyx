@@ -8,8 +8,4 @@ For OS Ubuntu 16.04.7 LTS (Xenial Xerus):
 
 ### Repository:
 
-[Bonyx](https://github.com/bonyx-project/bonyx/)
-
-[Bonyx wallet](https://github.com/bonyx-project/bonyx-wallet/)
-
-[Bonyx logo](https://github.com/bonyx-project/bonyx-logo/)
+[Bonyx](https://github.com/bonyx-project/bonyx/) - [Bonyx wallet](https://github.com/bonyx-project/bonyx-wallet/) - [Bonyx logo](https://github.com/bonyx-project/bonyx-logo/)
