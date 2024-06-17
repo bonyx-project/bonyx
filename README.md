@@ -10,10 +10,10 @@ For OS Ubuntu 16.04.7 LTS (Xenial Xerus):
 
 [Bonyx](https://github.com/bonyx-project/bonyx/) - [Bonyx wallet](https://github.com/bonyx-project/bonyx-wallet/) - [Bonyx logo](https://github.com/bonyx-project/bonyx-logo/)
 
-```
+##
 ### Total money supply:
 500000000000000.00 BNX
-```
+##
 
 ### Minable (1%):
 5000000000000.00 BNX
