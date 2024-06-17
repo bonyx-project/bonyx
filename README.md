@@ -48,3 +48,11 @@ SHA 256 hashes:
 8ba7e2687fb8a2152504475e92e489aace543059fd4ba7ffe10111c42394853b *ubuntu-16.04.7-desktop-amd64.iso
 
 eecb9c8160cdb08adf0c2f17daa1d403f5a55f14a856a5973f32f267eb9db039 *ubuntu-16.04.6-desktop-i386.iso
+##
+Install Rufus:
+
+[Install Rufus for create bootable USB flash disk](https://rufus.ie)
+
+[Install Rufus 64-bit PC](https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5.exe)
+
+[Install Rufus 32-bit PC](https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_x86.exe)
