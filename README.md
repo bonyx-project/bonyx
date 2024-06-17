@@ -33,5 +33,4 @@ For OS Ubuntu 16.04.7 LTS (Xenial Xerus):
 
 
 ### Default ports for P2P and RPC networking
-P2P PORT: 15050
-RPC PORT: 15051
+P2P PORT: 15050, RPC PORT: 15051
