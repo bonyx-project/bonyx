@@ -33,3 +33,5 @@ Addresses start with "bx"
 
 ### Default ports for P2P and RPC networking:
 P2P PORT: 15050, RPC PORT: 15051
+##
+## Building Bonyx:
