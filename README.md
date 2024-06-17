@@ -35,7 +35,7 @@ Addresses start with "bx"
 P2P PORT: 15050, RPC PORT: 15051
 ##
 ## Building Bonyx:
-Install OS Ubuntu 16.04.7 LTS (Xenial Xerus)
+Install OS Ubuntu 16.04.7 LTS (Xenial Xerus):
 
 [Install Ubuntu - Ubuntu 16.04.7 LTS (Xenial Xerus)](https://releases.ubuntu.com/xenial/)
 
@@ -56,3 +56,7 @@ Install Rufus:
 [Install Rufus 64-bit PC](https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5.exe) - rufus-4.5.exe
 
 [Install Rufus 32-bit PC](https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_x86.exe) - rufus-4.5_x86.exe
+##
+### After installing OS Ubuntu 16.04.7 LTS (Xenial Xerus):
+Open Terminal - CTRL + ALT + T
+
