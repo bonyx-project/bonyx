@@ -36,9 +36,15 @@ P2P PORT: 15050, RPC PORT: 15051
 ##
 ## Building Bonyx:
 Install OS Ubuntu 16.04.7 LTS (Xenial Xerus)
+
 [Install Ubuntu](https://releases.ubuntu.com/xenial/)
+
 [Download Ubuntu 64-bit PC desktop image](https://releases.ubuntu.com/xenial/ubuntu-16.04.7-desktop-amd64.iso) - ubuntu-16.04.7-desktop-amd64.iso
+
 [Download Ubuntu 32-bit PC desktop image](https://releases.ubuntu.com/xenial/ubuntu-16.04.6-desktop-i386.iso) - ubuntu-16.04.6-desktop-i386.iso
+
 SHA 256 hashes:
+
 8ba7e2687fb8a2152504475e92e489aace543059fd4ba7ffe10111c42394853b *ubuntu-16.04.7-desktop-amd64.iso
+
 eecb9c8160cdb08adf0c2f17daa1d403f5a55f14a856a5973f32f267eb9db039 *ubuntu-16.04.6-desktop-i386.iso
