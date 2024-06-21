@@ -19,6 +19,9 @@ For OS Ubuntu 16.04.7 LTS (Xenial Xerus):
 ### Premine (99%):
 495000000000000.00 BNX
 ##
+### Bonyx cryptocurrency symbol:
+CTRL + ALT + 5 = ൫
+##
 ### Block time:
 120s
 
