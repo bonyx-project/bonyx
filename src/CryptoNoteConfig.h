@@ -63,7 +63,9 @@ const size_t   CRYPTONOTE_DISPLAY_DECIMAL_POINT              = 2;
 //TODO Define minimum fee for transactions
 const uint64_t MINIMUM_FEE                                   = UINT64_C(1);
 const uint64_t DEFAULT_DUST_THRESHOLD                        = UINT64_C(1);
-
+// Use 0 for default max transaction size limit
+const uint64_t MAX_TRANSACTION_SIZE_LIMIT                    = 20000000;
+const uint64_t DEFAULT_FEE                                   = MINIMUM_FEE;
 //TODO Define preferred block's target time
 const uint64_t DIFFICULTY_TARGET                             = 120; // seconds
 const uint64_t EXPECTED_NUMBER_OF_BLOCKS_PER_DAY             = 24 * 60 * 60 / DIFFICULTY_TARGET;
