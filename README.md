@@ -56,3 +56,10 @@ Install Rufus:
 ##
 ### After installing OS Ubuntu 16.04.7 LTS (Xenial Xerus):
 Open Terminal - CTRL + ALT + T
+##
+### Installing dependencies:
+1. Installing cmake 2.8.12.2
+```
+sudo apt-get update
+sudo apt-get install cmake
+```
