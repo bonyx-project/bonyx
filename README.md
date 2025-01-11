@@ -118,7 +118,7 @@ make -j
 ```
 (ignore errors)
 ##
-### Run
+### Run:
 1. Go to directory /bonyx/build/release/src/
 ```
 cd bonyx/build/release/src
