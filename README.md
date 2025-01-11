@@ -78,3 +78,56 @@ sudo apt-get install git
 ```
 sudo apt install build-essential libqt4-dev qt5-qmake cmake qttools5-dev libqt5webkit5-dev qttools5-dev-tools qt5-default python-sphinx texlive-latex-base inotify-tools openssl libssl-dev libdb++-dev libminiupnpc-dev git sqlite3 libsqlite3-dev g++ libpng-dev gedit python gcc make libbz2-dev libdb-dev libssl-dev libreadline-dev autoconf libtool libleveldb-dev libblkid-dev e2fslibs-dev libboost-all-dev libaudit-dev nano qtbase5-dev qt4-dev-tools libqtcore4 libqtgui4 automake -y
 ```
+2. Install
+```
+sudo apt-get install build-essential
+```
+3. Install
+```
+sudo apt-get install g++
+```
+4. Install
+```
+sudo apt-get install clang
+```
+5. Install
+```
+sudo apt-get install boost
+```
+6. Install
+```
+sudo apt-get install libboost-all-dev
+```
+Restart PC.
+##
+### Install & Build Bonyx:
+1. Clone bonyx sources
+```
+git clone https://github.com/bonyx-project/bonyx.git
+```
+2. Go to directory /bonyx/
+```
+cd bonyx
+```
+3. Build
+```
+make
+make -j
+make
+make -j
+```
+(ignore errors)
+##
+### Run
+1. Go to directory /bonyx/build/release/src/
+```
+cd bonyx/build/release/src
+```
+2. Run
+```
+./bonyxd
+```
+3. Simplewallet (Open new Terminal - CTRL + ALT + T). Go to directory /bonyx/build/release/src/ (Step 1)
+```
+./simplewallet
+```
