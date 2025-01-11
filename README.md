@@ -52,7 +52,7 @@ Install Rufus:
 
 [Install Rufus for create bootable USB flash disk](https://rufus.ie)
 
-[Install Rufus 64-bit PC](https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5.exe) - rufus-4.5.exe
+[Install Rufus 64-bit PC](https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6.exe) - rufus-4.6.exe
 ##
 ### After installing OS Ubuntu 16.04.7 LTS (Xenial Xerus):
 Open Terminal - CTRL + ALT + T
