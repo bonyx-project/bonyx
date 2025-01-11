@@ -131,3 +131,10 @@ cd bonyx/build/release/src
 ```
 ./simplewallet
 ```
+##
+##
+### Useful commands:
+Delete existing blockchain
+```
+rm -rf ~/.bonyx
+```
