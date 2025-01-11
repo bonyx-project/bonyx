@@ -102,7 +102,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 
 //TODO Put here the name of your currency
 const char     CRYPTONOTE_NAME[]                             = "bonyx";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001fe9a0ee29f2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101fabfefa424cc508be0f452cdfe9f1c24fc7e87330cb58978f378eee1c641172d";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff000101029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101f71944084d19dbe31592edc9a4e20c6f0cefcd14975adeaae47cc4c7d02e8969";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
@@ -134,8 +134,8 @@ const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "";
 
 //TODO Add here your network seed nodes
 const std::initializer_list<const char*> SEED_NODES = {
-  "192.168.1.26:15050",
-  "192.168.1.129:15050",
+  "185.3.158.234:15050",
+  "185.15.110.148:15050",
 };
 
 struct CheckpointData {
