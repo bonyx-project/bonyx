@@ -20,6 +20,7 @@ For OS Ubuntu 16.04.7 LTS (Xenial Xerus):
 495000000000000.00 BNX
 ##
 ### Bonyx cryptocurrency symbol:
+Symbol: BNX
 Unicode character (U+0D6B): ൫
 ##
 ### Block time:
