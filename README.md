@@ -21,6 +21,7 @@ For OS Ubuntu 16.04.7 LTS (Xenial Xerus):
 ##
 ### Bonyx cryptocurrency symbol:
 Symbol: BNX
+### Bonyx cryptocurrency unicode character:
 Unicode character (U+0D6B): ൫
 ##
 ### Block time:
